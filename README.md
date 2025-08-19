@@ -1,4 +1,4 @@
-# Dashboard de Usando Streamlit
+# Dashboard Usando Streamlit
 
 Este projeto foi desenvolvido como parte de um **treinamento escolar** para aprendizado de **Python**.  
 
