@@ -14,7 +14,7 @@ A aplicação consiste em uma **dashboard interativa** que permite explorar dado
 - Distribuição do faturamento por **forma de pagamento**.  
 - Avaliações médias por **cidade**.  
 
-<img width="1879" height="971" alt="image" src="https://github.com/user-attachments/assets/fe411a42-89fe-40f2-9f91-87db47902df3" />
+<img width="1874" height="968" alt="image" src="https://github.com/user-attachments/assets/88742709-16cc-4515-8bba-c4c979e48eab" />
 
 
 ---
