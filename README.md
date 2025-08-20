@@ -19,12 +19,12 @@ A aplicação consiste em uma **dashboard interativa** que permite explorar dado
 
 ---
 
-## 📂 Observação  
+## Observação  
 A planilha utilizada (**`supermarket_sales.csv`**) foi gerada de forma **aleatória apenas para demonstração**.  
 
 ---
 
-## 🚀 Tecnologias utilizadas  
+## Tecnologias utilizadas  
 - [Python](https://www.python.org/)  
 - [Pandas](https://pandas.pydata.org/)  
 - [Streamlit](https://streamlit.io/)  
